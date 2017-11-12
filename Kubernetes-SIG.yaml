@@ -1,0 +1,117 @@
+---
+API Machinery:
+  SIG Name: API Machinery
+  Leads: David Eads
+  Company: Red Hat
+AWS:
+  SIG Name: AWS
+  Leads: Mackenzie Burnett
+  Company: Redspread
+Apps:
+  SIG Name: Apps
+  Leads: Adnan Abdulhussein
+  Company: Bitnami
+Architecture:
+  SIG Name: Architecture
+  Leads: Jaice Singer DuMars
+  Company: Microsoft
+Auth:
+  SIG Name: Auth
+  Leads: David Eads
+  Company: Red Hat
+Autoscaling:
+  SIG Name: Autoscaling
+  Leads: Solly Ross
+  Company: Red Hat
+Azure:
+  SIG Name: Azure
+  Leads: Jaice Singer DuMars
+  Company: Microsoft
+Big Data:
+  SIG Name: Big Data
+  Leads: Erik Erlandson
+  Company: Red Hat
+CLI:
+  SIG Name: CLI
+  Leads: Tony Ado
+  Company: Alibaba
+Cluster Lifecycle:
+  SIG Name: Cluster Lifecycle
+  Leads: Lucas Käldström
+  Company: Luxar Labs
+Cluster Ops:
+  SIG Name: Cluster Ops
+  Leads: Jaice Singer DuMars
+  Company: Microsoft
+Contributor Experience:
+  SIG Name: Contributor Experience
+  Leads: Elsie Phillips
+  Company: CoreOS
+Docs:
+  SIG Name: Docs
+  Leads: Jared Bhatti
+  Company: Google
+GCP:
+  SIG Name: GCP
+  Leads: Adam Worrall
+  Company: Google
+Instrumentation:
+  SIG Name: Instrumentation
+  Leads: Fabian Reinartz
+  Company: CoreOS
+Multicluster:
+  SIG Name: Multicluster
+  Leads: Quinton Hoole
+  Company: Huawei
+Network:
+  SIG Name: Network
+  Leads: Casey Davenport
+  Company: Tigera
+Node:
+  SIG Name: Node
+  Leads: Derek Carr
+  Company: Red Hat
+On Premise:
+  SIG Name: On Premise
+  Leads: Dalton Hubble
+  Company: CoreOS
+OpenStack:
+  SIG Name: OpenStack
+  Leads: Steve Gordon
+  Company: Red Hat
+Product Management:
+  SIG Name: Product Management
+  Leads: Caleb Miles
+  Company: CoreOS
+Release:
+  SIG Name: Release
+  Leads: Caleb Miles
+  Company: CoreOS
+Scalability:
+  SIG Name: Scalability
+  Leads: Joe Beda
+  Company: Heptio
+Scheduling:
+  SIG Name: Scheduling
+  Leads: Timothy St. Clair
+  Company: Heptio
+Service Catalog:
+  SIG Name: Service Catalog
+  Leads: Doug Davis
+  Company: IBM
+Storage:
+  SIG Name: Storage
+  Leads: Bradley Childs
+  Company: Red Hat
+Testing:
+  SIG Name: Testing
+  Leads: Timothy St. Clair
+  Company: Heptio
+UI:
+  SIG Name: UI
+  Leads: Sebastian Florek
+  Company: Fujitsu
+Windows:
+  SIG Name: Windows
+  Leads: Michael Michael
+  Company: Apprenda

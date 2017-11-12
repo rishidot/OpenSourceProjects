@@ -1,0 +1,25 @@
+---
+App Def:
+  Working Group: App Def
+  Organizers: Sebastien Goasguen
+  Company: Bitnami
+Cloud Provider:
+  Working Group: Cloud Provider
+  Organizers: Jago Macleod
+  Company: Google
+Cluster API:
+  Working Group: Cluster API
+  Organizers: Robert Bailey
+  Company: Google
+Container Identity:
+  Working Group: Container Identity
+  Organizers: Greg Gastle
+  Company: Google
+Kubeadm Adoption:
+  Working Group: Kubeadm Adoption
+  Organizers: Justin Santa Barbara
+  Company: Unknown
+Resource Management:
+  Working Group: Resource Management
+  Organizers: Derek Carr
+  Company: Red Hat
